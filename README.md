@@ -1,0 +1,2 @@
+# js-interval
+setTimeOut , SetInterval
